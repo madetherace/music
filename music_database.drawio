@@ -1,0 +1,575 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="27.0.4" pages="7">
+  <diagram id="page_1_artists" name="Artist Nodes">
+    <mxGraphModel dx="1281" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="art_1" value="&lt;b&gt;ID:&lt;/b&gt; 1&lt;br&gt;&lt;b&gt;Name:&lt;/b&gt; Young Thug&lt;br&gt;&lt;b&gt;Genre:&lt;/b&gt; Hip Hop/Trap" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="50" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="art_2" value="&lt;b&gt;ID:&lt;/b&gt; 2&lt;br&gt;&lt;b&gt;Name:&lt;/b&gt; Ken Carson&lt;br&gt;&lt;b&gt;Genre:&lt;/b&gt; Hip Hop/Rage" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="140" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="art_3" value="&lt;b&gt;ID:&lt;/b&gt; 3&lt;br&gt;&lt;b&gt;Name:&lt;/b&gt; Future&lt;br&gt;&lt;b&gt;Genre:&lt;/b&gt; Hip Hop/Trap" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="230" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="art_4" value="&lt;b&gt;ID:&lt;/b&gt; 4&lt;br&gt;&lt;b&gt;Name:&lt;/b&gt; Travis Scott&lt;br&gt;&lt;b&gt;Genre:&lt;/b&gt; Hip Hop/Trap" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="320" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="art_5" value="&lt;b&gt;ID:&lt;/b&gt; 5&lt;br&gt;&lt;b&gt;Name:&lt;/b&gt; Playboi Carti&lt;br&gt;&lt;b&gt;Genre:&lt;/b&gt; Hip Hop/Rage" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="410" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="art_6" value="&lt;b&gt;ID:&lt;/b&gt; 6&lt;br&gt;&lt;b&gt;Name:&lt;/b&gt; Lil Uzi Vert&lt;br&gt;&lt;b&gt;Genre:&lt;/b&gt; Hip Hop/Trap" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="500" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="art_7" value="&lt;b&gt;ID:&lt;/b&gt; 7&lt;br&gt;&lt;b&gt;Name:&lt;/b&gt; Drake&lt;br&gt;&lt;b&gt;Genre:&lt;/b&gt; Hip Hop/R&amp;B" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="590" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="art_8" value="&lt;b&gt;ID:&lt;/b&gt; 8&lt;br&gt;&lt;b&gt;Name:&lt;/b&gt; Kanye West&lt;br&gt;&lt;b&gt;Genre:&lt;/b&gt; Hip Hop/Experimental" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="680" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="art_9" value="&lt;b&gt;ID:&lt;/b&gt; 9&lt;br&gt;&lt;b&gt;Name:&lt;/b&gt; Kendrick Lamar&lt;br&gt;&lt;b&gt;Genre:&lt;/b&gt; Hip Hop" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="770" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="art_10" value="&lt;b&gt;ID:&lt;/b&gt; 10&lt;br&gt;&lt;b&gt;Name:&lt;/b&gt; J. Cole&lt;br&gt;&lt;b&gt;Genre:&lt;/b&gt; Hip Hop" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="860" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="art_11" value="&lt;b&gt;ID:&lt;/b&gt; 11&lt;br&gt;&lt;b&gt;Name:&lt;/b&gt; Gunna&lt;br&gt;&lt;b&gt;Genre:&lt;/b&gt; Hip Hop/Trap" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="950" width="200" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="page_2_albums" name="Album Nodes">
+    <mxGraphModel dx="1281" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="alb_101" value="&lt;b&gt;ID:&lt;/b&gt; 101&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; So Much Fun&lt;br&gt;&lt;b&gt;Year:&lt;/b&gt; 2019" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="50" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_102" value="&lt;b&gt;ID:&lt;/b&gt; 102&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; PUNK&lt;br&gt;&lt;b&gt;Year:&lt;/b&gt; 2021" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="140" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_103" value="&lt;b&gt;ID:&lt;/b&gt; 103&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Project X&lt;br&gt;&lt;b&gt;Year:&lt;/b&gt; 2021" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="230" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_104" value="&lt;b&gt;ID:&lt;/b&gt; 104&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; X&lt;br&gt;&lt;b&gt;Year:&lt;/b&gt; 2022" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="320" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_105" value="&lt;b&gt;ID:&lt;/b&gt; 105&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; DS2&lt;br&gt;&lt;b&gt;Year:&lt;/b&gt; 2015" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="410" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_106" value="&lt;b&gt;ID:&lt;/b&gt; 106&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; HNDRXX&lt;br&gt;&lt;b&gt;Year:&lt;/b&gt; 2017" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="500" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_107" value="&lt;b&gt;ID:&lt;/b&gt; 107&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; ASTROWORLD&lt;br&gt;&lt;b&gt;Year:&lt;/b&gt; 2018" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="590" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_108" value="&lt;b&gt;ID:&lt;/b&gt; 108&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; UTOPIA&lt;br&gt;&lt;b&gt;Year:&lt;/b&gt; 2023" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="680" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_109" value="&lt;b&gt;ID:&lt;/b&gt; 109&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Whole Lotta Red&lt;br&gt;&lt;b&gt;Year:&lt;/b&gt; 2020" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="770" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_110" value="&lt;b&gt;ID:&lt;/b&gt; 110&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Eternal Atake&lt;br&gt;&lt;b&gt;Year:&lt;/b&gt; 2020" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="860" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_111" value="&lt;b&gt;ID:&lt;/b&gt; 111&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Certified Lover Boy&lt;br&gt;&lt;b&gt;Year:&lt;/b&gt; 2021" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="950" width="200" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="page_3_songs" name="Song Nodes">
+    <mxGraphModel dx="1400" dy="1000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="sng_201" value="&lt;b&gt;ID:&lt;/b&gt; 201&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Hot&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 3.13m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_202" value="&lt;b&gt;ID:&lt;/b&gt; 202&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; The London&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 3.20m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="130" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_203" value="&lt;b&gt;ID:&lt;/b&gt; 203&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Go&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 2.00m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="210" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_204" value="&lt;b&gt;ID:&lt;/b&gt; 204&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; MDMA&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 2.30m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="290" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_205" value="&lt;b&gt;ID:&lt;/b&gt; 205&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Thought It Was a Drought&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 4.25m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="370" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_206" value="&lt;b&gt;ID:&lt;/b&gt; 206&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Stick Talk&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 2.50m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="450" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_207" value="&lt;b&gt;ID:&lt;/b&gt; 207&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; SICKO MODE&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 5.12m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="530" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_208" value="&lt;b&gt;ID:&lt;/b&gt; 208&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; STARGAZING&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 4.31m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="610" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_209" value="&lt;b&gt;ID:&lt;/b&gt; 209&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Sky&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 3.10m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="690" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_210" value="&lt;b&gt;ID:&lt;/b&gt; 210&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Baby Pluto&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 3.30m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="770" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_211" value="&lt;b&gt;ID:&lt;/b&gt; 211&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Way 2 Sexy&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 4.17m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="850" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_212" value="&lt;b&gt;ID:&lt;/b&gt; 212&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Livin It Up&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 3.30m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="930" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_213" value="&lt;b&gt;ID:&lt;/b&gt; 213&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; Mask Off&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 3.24m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1010" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_214" value="&lt;b&gt;ID:&lt;/b&gt; 214&lt;br&gt;&lt;b&gt;Title:&lt;/b&gt; FE!N&lt;br&gt;&lt;b&gt;Duration:&lt;/b&gt; 3.12m" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1090" width="220" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="page_4_releasedalbum" name="ReleasedAlbum Edges">
+    <mxGraphModel dx="1281" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="art_1_p4" value="Young Thug" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_2_p4" value="Ken Carson" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_3_p4" value="Future" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_4_p4" value="Travis Scott" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="640" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_5_p4" value="Playboi Carti" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="640" y="280" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_6_p4" value="Lil Uzi Vert" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="640" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_7_p4" value="Drake" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="240" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_101_p4" value="So Much Fun" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="400" y="10" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_102_p4" value="PUNK" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="400" y="70" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_103_p4" value="Project X" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="400" y="140" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_104_p4" value="X" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="400" y="200" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_105_p4" value="DS2" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="400" y="260" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_106_p4" value="HNDRXX" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="400" y="320" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_108_p4" value="UTOPIA" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="880" y="10" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_109_p4" value="Whole Lotta Red" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="880" y="280" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_110_p4" value="Eternal Atake" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="880" y="180" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_111_p4" value="Certified Lover Boy" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="640" y="440" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ra_0" value="2019-08-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_1_p4" target="alb_101_p4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ra_1" value="2021-10-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_1_p4" target="alb_102_p4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ra_2" value="2021-07-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_2_p4" target="alb_103_p4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ra_3" value="2022-07-08" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_2_p4" target="alb_104_p4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ra_4" value="2015-07-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_3_p4" target="alb_105_p4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ra_5" value="2017-02-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_3_p4" target="alb_106_p4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ra_8" value="2020-12-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_5_p4" target="alb_109_p4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ra_9" value="2020-03-06" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_6_p4" target="alb_110_p4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ra_10" value="2021-09-03" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_7_p4" target="alb_111_p4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mZPo3DTv7eUjTrqnKjhK-10" value="2023-07-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="alb_108_p4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="60" as="sourcePoint" />
+            <mxPoint x="1000" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="alb_107_p4" value="ASTROWORLD" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="880" y="70" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mZPo3DTv7eUjTrqnKjhK-14" value="2018-08-03" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="alb_107_p4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="60" as="sourcePoint" />
+            <mxPoint x="1000" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="page_5_belongstoalbum" name="BelongsToAlbum Edges">
+    <mxGraphModel dx="1600" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <!-- Songs -->
+        <mxCell id="sng_201_p5" value="Hot" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="50" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_202_p5" value="The London" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="105" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_203_p5" value="Go" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="160" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_204_p5" value="MDMA" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="215" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_205_p5" value="Thought It Was a Drought" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="270" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_206_p5" value="Stick Talk" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="325" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_207_p5" value="SICKO MODE" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="380" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_208_p5" value="STARGAZING" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="435" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_209_p5" value="Sky" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_210_p5" value="Baby Pluto" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="545" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_211_p5" value="Way 2 Sexy" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="600" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_212_p5" value="Livin It Up" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="655" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_213_p5" value="Mask Off" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="710" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_214_p5" value="FE!N" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="50" y="765" width="180" height="40" as="geometry" />
+        </mxCell>
+        <!-- Albums (relevant) -->
+        <mxCell id="alb_101_p5" value="So Much Fun" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="50" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_102_p5" value="PUNK" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="655" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_104_p5" value="X" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_105_p5" value="DS2" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="270" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_106_p5" value="HNDRXX" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="710" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_107_p5" value="ASTROWORLD" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="380" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_108_p5" value="UTOPIA" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="765" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_109_p5" value="Whole Lotta Red" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="490" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_110_p5" value="Eternal Atake" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="545" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="alb_111_p5" value="Certified Lover Boy" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="450" y="600" width="150" height="40" as="geometry" />
+        </mxCell>
+        <!-- Edges -->
+        <mxCell id="edge_bta_0" value="Track: 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_201_p5" target="alb_101_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_1" value="Track: 2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_202_p5" target="alb_101_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_2" value="Track: 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_203_p5" target="alb_104_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_3" value="Track: 2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_204_p5" target="alb_104_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_4" value="Track: 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_205_p5" target="alb_105_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_5" value="Track: 2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_206_p5" target="alb_105_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_6" value="Track: 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_207_p5" target="alb_107_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_7" value="Track: 2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_208_p5" target="alb_107_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_8" value="Track: 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_209_p5" target="alb_109_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_9" value="Track: 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_210_p5" target="alb_110_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_10" value="Track: 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_211_p5" target="alb_111_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_11" value="Track: 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_212_p5" target="alb_102_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_12" value="Track: 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_213_p5" target="alb_106_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_bta_13" value="Track: 1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" edge="1" parent="1" source="sng_214_p5" target="alb_108_p5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="page_6_performedsong" name="PerformedSong Edges">
+    <mxGraphModel dx="1281" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="art_1_p6" value="Young Thug" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="60" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_2_p6" value="Ken Carson" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="260" y="295" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_3_p6" value="Future" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="930" y="1000" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_4_p6" value="Travis Scott" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="454" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_5_p6" value="Playboi Carti" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_6_p6" value="Lil Uzi Vert" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="920" y="245" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_7_p6" value="Drake" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_10_p6" value="J. Cole" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="60" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_201_p6" value="Hot" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="290" y="120" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_202_p6" value="The London" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="640" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_203_p6" value="Go" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="390" y="350" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_204_p6" value="MDMA" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="390" y="240" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_205_p6" value="Thought It Was a Drought" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="900" y="610" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_206_p6" value="Stick Talk" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="740" y="750" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_207_p6" value="SICKO MODE" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="450" y="600" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_208_p6" value="STARGAZING" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="20" y="330" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_209_p6" value="Sky" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="20" y="620" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_210_p6" value="Baby Pluto" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="890" y="394" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_211_p6" value="Way 2 Sexy" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="210" y="860" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_212_p6" value="Livin It Up" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="370" y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_213_p6" value="Mask Off" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="610" y="880" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sng_214_p6" value="FE!N" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="220" y="570" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_0" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="art_1_p6" target="sng_201_p6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_1" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_1_p6" target="sng_202_p6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="120" />
+              <mxPoint x="640" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_ps_2" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_2_p6" target="sng_203_p6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_3" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_2_p6" target="sng_204_p6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_4" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_3_p6" target="sng_205_p6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_5" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_3_p6" target="sng_206_p6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_6" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="sng_207_p6" edge="1">
+          <mxGeometry x="0.7056" relative="1" as="geometry">
+            <mxPoint x="170" y="467" as="sourcePoint" />
+            <mxPoint x="540" y="593" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="468" />
+              <mxPoint x="540" y="468" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_ps_7" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_4_p6" target="sng_208_p6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_8" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_5_p6" target="sng_209_p6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_9" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_6_p6" target="sng_210_p6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_10" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_7_p6" target="sng_211_p6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="810" />
+              <mxPoint x="310" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_ps_12" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_3_p6" target="sng_213_p6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_13" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_4_p6" target="sng_214_p6" edge="1">
+          <mxGeometry x="0.3913" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="480" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_ps_14" value="Featured Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_10_p6" target="sng_202_p6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_15" value="Featured Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;entryX=0.612;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="sng_202_p6" edge="1">
+          <mxGeometry x="0.1826" relative="1" as="geometry">
+            <mxPoint x="130" y="454" as="sourcePoint" />
+            <mxPoint x="750" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="440" />
+              <mxPoint x="750" y="440" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge_ps_16" value="Featured Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="art_7_p6" target="sng_207_p6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_ps_17" value="Featured Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_5_p6" target="sng_214_p6" edge="1">
+          <mxGeometry x="-0.1111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Tkoyw51-CQjWIEOk-icq-2" value="Main Artist" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="art_1_p6" target="sng_212_p6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="40" as="sourcePoint" />
+            <mxPoint x="460" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="120" y="20" />
+              <mxPoint x="461" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="page_7_collaboratedwith" name="CollaboratedWith Edges">
+    <mxGraphModel dx="1281" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="art_1_p7" value="Young Thug" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_3_p7" value="Future" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="250" y="50" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_4_p7" value="Travis Scott" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_5_p7" value="Playboi Carti" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="250" y="130" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="art_7_p7" value="Drake" style="shape=rectangle;whiteSpace=wrap;html=1;align=left;spacingLeft=4;fontSize=10;" parent="1" vertex="1">
+          <mxGeometry x="50" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_cw_0" value="Song" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_1_p7" target="art_4_p7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_cw_1" value="Song" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_4_p7" target="art_1_p7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_cw_2" value="Song" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_4_p7" target="art_7_p7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_cw_3" value="Song" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_7_p7" target="art_4_p7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_cw_4" value="Song" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_4_p7" target="art_5_p7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_cw_5" value="Song" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_5_p7" target="art_4_p7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_cw_6" value="Album/General" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_1_p7" target="art_3_p7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge_cw_7" value="Album/General" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;fontSize=9;" parent="1" source="art_3_p7" target="art_1_p7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
